@@ -162,7 +162,7 @@ DELETE `/books/10` → Remove book
 Let’s design a **User Management API**.
 
 ---
-
+```json
 ✅ Retrieve Users
 
 Request
@@ -170,7 +170,7 @@ Request
 GET /users
 
 Response
-```json
+
 200 OK
 [
   { "id": 1, "name": "Alice" },
