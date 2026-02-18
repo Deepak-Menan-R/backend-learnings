@@ -163,13 +163,13 @@ Let’s design a **User Management API**.
 
 ---
 
-### ✅ Retrieve Users
+✅ Retrieve Users
 
-**Request**
+Request
 
 GET /users
 
-**Response**
+Response
 ```json
 200 OK
 [
