@@ -1,0 +1,28 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+.venv/
+venv/
+env/
+ENV/
+
+# VS Code
+.vscode/
+
+# Uvicorn reload file
+*.db
+*.sqlite3
+
+# Pycharm
+.idea/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Log, env
+*.log
+*.env
