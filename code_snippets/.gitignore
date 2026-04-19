@@ -23,7 +23,6 @@ ENV/
 .DS_Store
 Thumbs.db
 
-build/
 
 # Log, env
 *.log
