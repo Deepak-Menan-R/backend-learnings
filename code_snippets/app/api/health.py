@@ -6,5 +6,5 @@ router = APIRouter()
 async def health_check():
     return {
         "status": "ok",
-        "message": "Service is healthy"
+        "message": "Service is healthy and running."
     }
