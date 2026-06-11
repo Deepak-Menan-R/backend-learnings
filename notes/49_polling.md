@@ -1,6 +1,4 @@
-Here's a **Day 43 – Polling** note in the same format as your WebSockets notes:
-
-# Day 43 – Polling
+# Day 49 – Polling
 
 ## 📜 What is Polling?
 
@@ -272,4 +270,4 @@ However, it introduces:
 
 Polling is best suited for applications where updates are **occasional rather than truly real-time**.
 
-✨ End of Day 43
+✨ End of Day 49
