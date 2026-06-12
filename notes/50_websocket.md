@@ -1,4 +1,4 @@
-# Day 42 – WebSockets
+# Day 50 – WebSockets
 
 ## 📜 What are WebSockets?
 
@@ -227,4 +227,4 @@ WebSockets enable:
 
 They are best suited for **interactive real-time systems**.
 
-✨ End of Day 42
+✨ End of Day 50
