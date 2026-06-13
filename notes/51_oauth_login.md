@@ -1,4 +1,4 @@
-# Day 43 – OAuth Login
+# Day 51 – OAuth Login
 
 ## 📜 What is OAuth?
 
@@ -410,4 +410,4 @@ OAuth enables:
 
 When combined with **OpenID Connect (OIDC)**, it becomes the standard solution for modern **social login and authentication systems**.
 
-✨ End of Day 43 – OAuth Login
+✨ End of Day 51 – OAuth Login
