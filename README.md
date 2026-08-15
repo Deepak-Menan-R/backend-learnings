@@ -142,4 +142,4 @@ New notes are added regularly as I explore backend engineering, distributed syst
 
 > "The best way to learn is to build, document, and teach."
 
-⭐ If you find these notes useful, feel free to explore and use them as a learning resource. 
+⭐ If you find these notes useful, feel free to explore and use them as a learning resources. 
